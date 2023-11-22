@@ -53,21 +53,23 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
-              <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
-                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                      <Component id="content2" alignment="0" max="32767" attributes="0"/>
-                      <Component id="content3" alignment="0" max="32767" attributes="0"/>
-                      <Component id="content4" alignment="0" max="32767" attributes="0"/>
-                      <Component id="content5" alignment="0" max="32767" attributes="0"/>
-                      <Component id="content1" alignment="0" max="32767" attributes="0"/>
-                      <Component id="content6" alignment="0" min="-2" max="-2" attributes="0"/>
-                  </Group>
-                  <EmptySpace max="32767" attributes="0"/>
-              </Group>
               <Group type="102" alignment="1" attributes="0">
                   <Component id="titulo_contexto" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="content2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="content3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="content4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="content5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="content6" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="content1" min="-2" pref="810" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -87,7 +89,7 @@
                   <Component id="content5" min="-2" max="-2" attributes="0"/>
                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
                   <Component id="content6" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="80" max="32767" attributes="0"/>
+                  <EmptySpace pref="122" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -101,18 +103,18 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="c9" green="da" red="e3" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="I/O Hardware "/>
+            <Property name="text" type="java.lang.String" value="&#x25cf; I/O Hardware "/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
             </Property>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 40]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
           </Properties>
         </Component>
@@ -124,18 +126,18 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="c9" green="da" red="e3" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Application I/O Interface "/>
+            <Property name="text" type="java.lang.String" value="&#x25cf; Application I/O Interface "/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
             </Property>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 40]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
           </Properties>
         </Component>
@@ -168,18 +170,18 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="c9" green="da" red="e3" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Context - Overview"/>
+            <Property name="text" type="java.lang.String" value="&#x25cf; Context - Overview"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
             </Property>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 40]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
           </Properties>
         </Component>
@@ -191,18 +193,18 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="c9" green="da" red="e3" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Kernel I/O Subsystem "/>
+            <Property name="text" type="java.lang.String" value="&#x25cf; Kernel I/O Subsystem "/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
             </Property>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 40]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
           </Properties>
         </Component>
@@ -214,18 +216,18 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="c9" green="da" red="e3" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Transforming I/O Requests to Hardware Operations "/>
+            <Property name="text" type="java.lang.String" value="&#x25cf; Transforming I/O Requests to Hardware Operations "/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
             </Property>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 40]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
           </Properties>
         </Component>
@@ -237,18 +239,18 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="c9" green="da" red="e3" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Performance"/>
+            <Property name="text" type="java.lang.String" value="&#x25cf; Performance"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Hand Cursor"/>
             </Property>
             <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 33]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-              <Dimension value="[700, 40]"/>
+              <Dimension value="[810, 33]"/>
             </Property>
           </Properties>
         </Component>
